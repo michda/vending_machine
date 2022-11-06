@@ -72,7 +72,7 @@ public class Cli {
         final List<Coin> initialCoins = new ArrayList<>();
 
         System.out.println(INITIALISING_COINS);
-        System.out.println("Please enter the number of each of the coins for the double");
+        System.out.println("Please enter the number of each of the coins for the float");
         int loopCounter = 0;
         final CoinsEnum coinsEnumValues[] = CoinsEnum.values();
         while (loopCounter < coinsEnumValues.length) {

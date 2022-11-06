@@ -78,7 +78,7 @@ Each of the coins registered in the CoinsEnum will be listed in ascending value.
 
 *Example setup*
 ```
-Please enter the number of each of the coins for the double
+Please enter the number of each of the coins for the float
 0.01: 100
 0.02: 100
 0.05: 100
